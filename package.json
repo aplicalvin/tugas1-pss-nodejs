@@ -1,0 +1,23 @@
+{
+  "name": "tugas1-nodejs",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000T\u0000u\u0000g\u0000a\u0000s\u0000 \u00001\u0000 \u0000P\u0000S\u0000S\u0000\r\u0000 \u0000",
+  "homepage": "https://github.com/aplicalvin/tugas1-pss-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/aplicalvin/tugas1-pss-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicalvin/tugas1-pss-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "ApliCalvin",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
